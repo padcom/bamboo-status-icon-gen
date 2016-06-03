@@ -1,0 +1,14 @@
+{
+  "name": "bamboo-build-status-icon-gen",
+  "version": "1.0.0",
+  "description": "Bamboo build status icon generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthias Hryniszak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
